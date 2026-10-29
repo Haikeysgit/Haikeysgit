@@ -14,39 +14,39 @@ Most of what I ship starts at a hackathon or with a problem I've seen up close: 
 
 ### 01 / Onchain
 
-**[SquadJar](https://github.com/faroukobayanju/squadjar)** · [live](https://squadjar.vercel.app)
-*Ajo without a treasurer.*
+**[SquadJar](https://github.com/faroukobayanju/squadjar)** · [live](https://squadjar.vercel.app)<br>
+*Ajo without a treasurer.*<br>
 A rotating savings group where each payout lands on schedule and nobody holds the money. Built on Monad for Monad Metropolis (Consumer Products & Payments track).
 
-**[Flux](https://github.com/Haikeysgit/flux)**
-*Abandoned Solana accounts still hold rent.*
+**[Flux](https://github.com/Haikeysgit/flux)**<br>
+*Abandoned Solana accounts still hold rent.*<br>
 Scans accounts that Kora sponsored, audits them, and safely reclaims the SOL locked in the ones nobody uses anymore.
 
-**[Chog Buddy](https://github.com/chog-buddy-team/chog-buddy)** · [live](https://chogbuddy.vercel.app)
-*Your Chog NFT, alive on your desktop.*
+**[Chog Buddy](https://github.com/chog-buddy-team/chog-buddy)** · [live](https://chogbuddy.vercel.app)<br>
+*Your Chog NFT, alive on your desktop.*<br>
 A pixel pet for macOS and Windows that walks your taskbar, talks to you, keeps a private diary, and grows a public Soul onchain. Built for Chogathon 2026 with [Farouk](https://github.com/faroukobayanju).
 
 ### 02 / Agents
 
-**[Kedge](https://github.com/faroukobayanju/kedge)**
-*It doesn't trust what the agent says. It checks.*
+**[Kedge](https://github.com/faroukobayanju/kedge)**<br>
+*It doesn't trust what the agent says. It checks.*<br>
 A supervisor for unattended coding agents fixing failing dependency PRs. It catches silent drift (skipped tests, edits outside the plan, false "all green" claims), rolls back to the last good commit, and retries. Built for neatHack 2026.
 
-**[SmartBursar](https://github.com/Haikeysgit/smartbursar)**
-*School fees, handled over WhatsApp.*
+**[SmartBursar](https://github.com/Haikeysgit/smartbursar)**<br>
+*School fees, handled over WhatsApp.*<br>
 A FastAPI backend with a WhatsApp agent, receipt OCR, and an admin dashboard for tracking student payments.
 
-**[tektradoor-judge](https://github.com/Haikeysgit/tektradoor-judge)**
-*Results nobody can tune after the fact.*
+**[tektradoor-judge](https://github.com/Haikeysgit/tektradoor-judge)**<br>
+*Results nobody can tune after the fact.*<br>
 A test rig for trading strategies. Each strategy is written down and hashed before it runs on out-of-sample data, with the same costs and benchmark applied to every candidate.
 
 ### 03 / Products
 
-**[GafferScore](https://github.com/Haikeysgit/gafferscore)** · [live](https://gafferscore.xyz)
-*Think you know the Premier League?*
+**[GafferScore](https://github.com/Haikeysgit/gafferscore)** · [live](https://gafferscore.xyz)<br>
+*Think you know the Premier League?*<br>
 Predict EPL results and exact scorelines, earn points, and climb the leaderboard. Next.js and Supabase, with match analysis from [gaffer-engine](https://github.com/Haikeysgit/gaffer-engine) (Poisson and CatBoost models in Python).
 
-**[Bookkeeper](https://github.com/Haikeysgit/bookkeeper)** · [live](https://bookkeeper-seven.vercel.app)
+**[Bookkeeper](https://github.com/Haikeysgit/bookkeeper)** · [live](https://bookkeeper-seven.vercel.app)<br>
 A full-stack book management app with React, NestJS, GraphQL, and Auth0.
 
 **Also on the workbench:** [solidity-practice](https://github.com/Haikeysgit/solidity-practice) · [portfolio](https://github.com/Haikeysgit/portfolio)
