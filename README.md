@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Imisioluwa Obaseki, Full-Stack Engineer: web apps, blockchain, AI agents" width="100%">
+  <img src="./assets/banner.svg?v=2" alt="Imisioluwa Obaseki, Full-Stack Engineer: web apps, blockchain, AI agents" width="100%">
 </p>
 
 I'm a full-stack engineer. I build products end to end, from the interface to the API and the database, and much of my recent work puts blockchain and AI agents inside real apps.
