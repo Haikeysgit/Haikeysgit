@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180" role="img" aria-label="Bulkhead: A firewall for AI agents that hold money">
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .label { fill: #a371f7; font-size: 13px; font-weight: 600; letter-spacing: 1.5px; }
+    .name { fill: #f0f6fc; font-size: 34px; font-weight: 700; }
+    .tag { fill: #8b949e; font-size: 16px; }
+  </style>
+  <rect width="480" height="180" rx="12" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="479" height="179" rx="12" fill="none" stroke="#30363d"/>
+  <rect x="28" y="30" width="36" height="4" rx="2" fill="#a371f7"/>
+  <text x="28" y="62" class="label">AI AGENTS · BLOCKCHAIN</text>
+  <text x="28" y="110" class="name">Bulkhead</text>
+  <text x="28" y="144" class="tag">A firewall for AI agents that hold money</text>
+</svg>
