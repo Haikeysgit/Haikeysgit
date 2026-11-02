@@ -13,7 +13,7 @@ Open to full-stack, blockchain, and AI engineering roles. [Get in touch](#contac
     <th align="left" width="33%">🤖 AI agents</th>
   </tr>
   <tr valign="top">
-    <td>Web apps with auth, APIs, and real users.<br><br><sub>React · Next.js · NestJS · GraphQL · FastAPI · Supabase · PostgreSQL</sub></td>
+    <td>Web apps with auth, APIs, and real users.<br><br><sub>TypeScript · React · Next.js · NestJS · GraphQL · FastAPI · PostgreSQL</sub></td>
     <td>Smart contracts and the apps people use them through.<br><br><sub>Solidity · Monad · Solana · NEAR</sub></td>
     <td>Agents that trade, predict, and write code, plus the checks that keep them honest.<br><br><sub>Python · LLM APIs · CatBoost</sub></td>
   </tr>
