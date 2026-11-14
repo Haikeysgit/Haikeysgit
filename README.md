@@ -41,10 +41,11 @@ Open to full-stack, blockchain, and AI engineering roles. [Get in touch](#contac
   <tr valign="top">
     <td width="50%">
       <img src="./assets/cards/bulkhead.svg" alt="Bulkhead" width="100%"><br>
-      <b>Bulkhead</b> · in progress<br>
+      <b>Bulkhead</b><br>
       A firewall and contract-enforced spending cap for AI agents that hold money. In its live arena, three agents guard real BTC and USDC in a NEAR vault while attackers try to talk them into paying out. Every attack improves the firewall.<br>
       <sub>NEAR · AI agents · prompt-injection defence</sub><br>
-      <sub>🏆 NEAR Hackathon 2026 · with <a href="https://github.com/faroukobayanju">Farouk</a></sub>
+      <sub>🏆 NEAR Hackathon 2026 · with <a href="https://github.com/faroukobayanju">Farouk</a></sub><br>
+      <a href="https://github.com/Haikeysgit/bulkhead">Code</a>
     </td>
     <td width="50%">
       <img src="./assets/cards/squadjar.svg" alt="SquadJar" width="100%"><br>
